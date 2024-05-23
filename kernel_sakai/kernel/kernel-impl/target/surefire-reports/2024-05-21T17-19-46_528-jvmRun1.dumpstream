@@ -1,0 +1,6 @@
+# Created at 2024-05-21T17:24:43.342
+java.lang.ClassNotFoundException: org.sakaiproject.content.impl.BaseContentServiceFixTypeAndIdTest
+
+# Created at 2024-05-21T17:24:44.717
+java.lang.ClassNotFoundException: org.sakaiproject.content.impl.serialize.impl.test.GMTDateformatterTest
+

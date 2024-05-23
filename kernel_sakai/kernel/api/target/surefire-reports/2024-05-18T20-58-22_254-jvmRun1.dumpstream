@@ -1,0 +1,18 @@
+# Created at 2024-05-18T21:00:00.310
+java.lang.ClassNotFoundException: org.sakaiproject.util.comparator.AlphaNumericComparatorTest
+
+# Created at 2024-05-18T21:00:01.741
+java.lang.ClassNotFoundException: org.sakaiproject.util.comparator.GroupTitleComparatorTest
+
+# Created at 2024-05-18T21:00:03.020
+java.lang.ClassNotFoundException: org.sakaiproject.util.MapResourceBundleTest
+
+# Created at 2024-05-18T21:00:04.256
+java.lang.ClassNotFoundException: org.sakaiproject.util.PasswordCheckTest
+
+# Created at 2024-05-18T21:00:05.734
+java.lang.ClassNotFoundException: org.sakaiproject.util.ServerCookieTest
+
+# Created at 2024-05-18T21:00:06.906
+java.lang.ClassNotFoundException: org.sakaiproject.exception.PermissionExceptionTest
+
